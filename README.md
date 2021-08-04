@@ -1,4 +1,4 @@
-# FarmaBrum
-Site desenvolvido para a Farmácia Brum
-Contém informações básicas de contato e endereço
-Também contém o logo da marca
+# FarmaBrum<br>
+Site desenvolvido para a Farmácia Brum<br>
+Contém informações básicas de contato e endereço<br>
+Também contém o logo da marca<br>
