@@ -60,11 +60,13 @@ body {
 .mapa {
     width: 90%;
     height: 30rem;
+    border-radius: 20px;
 }
 
 .mapa iframe {
-    height: 100%;
     width: 100%;
+    height: 100%;
+    border-radius: 20px;
 }
 
 @media screen and (min-width: 900px) {
